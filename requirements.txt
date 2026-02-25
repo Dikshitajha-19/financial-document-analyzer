@@ -1,0 +1,28 @@
+# Core
+crewai==0.130.0
+crewai-tools==0.47.1
+fastapi==0.110.3
+uvicorn==0.29.0
+python-multipart==0.0.9
+python-dotenv==1.0.1
+
+# LLM & AI
+openai==1.30.5
+langchain-core==0.1.52
+langchain-community==0.0.38
+pypdf==4.2.0
+
+# Search
+google-search-results==2.4.2
+
+# Utils
+pydantic==1.10.13
+numpy==1.26.4
+pandas==2.2.2
+
+# BONUS: Database Integration
+sqlalchemy==2.0.30
+
+# BONUS: Queue Worker (Redis + Celery)
+celery==5.4.0
+redis==5.0.4
