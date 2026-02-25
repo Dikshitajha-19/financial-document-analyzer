@@ -227,7 +227,3 @@ DATABASE_URL = "postgresql://user:password@localhost/financial_analyzer"
 ```
 
 ---
-
-## ⚠️ Disclaimer
-
-This tool provides AI-generated financial analysis for informational purposes only and does not constitute personalized financial advice. Always consult a licensed financial advisor before making investment decisions.
